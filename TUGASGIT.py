@@ -76,3 +76,5 @@ for nama, hasil in data_panen.items() :
         print(f"lokasi {nama_lok} memerlukan perhatian khusus")
     else :
         print(f"lokasi {nama_lok} aman")
+
+print('TEST BRANCH')
