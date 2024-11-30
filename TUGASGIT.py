@@ -39,12 +39,21 @@ data_panen = {
             'kedelai': 480
         }
     },
+    #perubahan1
     'lokasi6' : {
-        'nama_lokasi':'Kebun f',
+        'nama_lokasi':'Kebun F',
         'hasil_panen' : {
             'padi': 1500,
             'jagung': 1000,
             'kedelai': 500
+        }
+    },
+    'lokasi7' : {
+        'nama_lokasi':'Kebun G',
+        'hasil_panen' : {
+            'padi': 1470,
+            'jagung': 870,
+            'kedelai': 470
         }
     }
 }
